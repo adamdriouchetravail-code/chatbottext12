@@ -1,0 +1,16 @@
+{
+  "name": "simple-chatbot",
+  "version": "0.1.0",
+  "description": "Ultra‑simple chatbot API and widget",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.0",
+    "cors": "^2.8.5",
+    "body-parser": "^1.20.2"
+  }
+}
